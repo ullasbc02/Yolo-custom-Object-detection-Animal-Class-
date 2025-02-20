@@ -7,7 +7,7 @@ from email.message import EmailMessage
 
 Sender_Email = "vijaysakre2000@gmail.com"
 Reciever_Email = "ullasbc11@gmail.com"
-Password = "vinayaka123"
+Password = "xxx"
 
 key = cv.waitKey(1)
 webcam = cv.VideoCapture(0)
